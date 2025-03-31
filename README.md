@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ... html/php/javascript/ruby
 - 💞️ I’m looking to collaborate on ... playing games
 - 📫 How to reach me ... ig: paulur_
-- 😄 Pronouns: ... I'm straight lol
 - ⚡ Fun fact: ... I love vintage cars :pppp
 
 <!---
